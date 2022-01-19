@@ -29,10 +29,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | done | medium |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | ✅ | Medium |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) | ✅ | Medium |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Easy |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | ✅ | Medium |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
