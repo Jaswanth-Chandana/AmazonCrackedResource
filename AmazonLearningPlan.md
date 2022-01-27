@@ -33,8 +33,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | ✅ | Medium |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Easy |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | ✅ | Medium |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  | In Progress |
+| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | ✅ | Hard |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
