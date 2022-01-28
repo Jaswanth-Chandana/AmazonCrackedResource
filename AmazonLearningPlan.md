@@ -38,7 +38,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | In Progress | Hard |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  | ✅ | Easy |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | ✅ | Easy |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | ✅ | Easy |
 
 
 ---
